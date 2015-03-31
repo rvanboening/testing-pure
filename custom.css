@@ -1,0 +1,44 @@
+.pure-g {
+  font-family: serif;
+}
+.leftie{
+  background: white;
+}
+
+.rightie{
+  background: #e9e9e9;
+  height: 2000px;
+  text-align: center;
+}
+
+.custom-restricted-width {
+    /* To limit the menu width to the content of the menu: */
+    display: inline-block;
+    /* Or set the width explicitly: */
+    /* width: 10em; */
+      margin-left: 2em;
+}
+
+
+.post, .post-footer{
+  margin: auto;
+  width: 80%;
+  text-align: left;
+}
+
+.post{
+  background: white;
+  min-height: 300px;
+  margin-top: 10%;
+}
+.post-footer{
+  background: #f1f1f1;
+}
+
+.pure-u-3-5, .p {
+  padding: 10px;
+}
+
+.pure-menu-item {
+  
+}
